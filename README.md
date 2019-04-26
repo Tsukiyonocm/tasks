@@ -71,7 +71,7 @@ input for additional ones to be added.
     5. Update the CSS to utilize SASS instead of static CSS. <br>
 
 
-## <strong>Tech Being Used</strong><br>
+## Tech Being Used
     CSS - I will probably stay away from SASS currently just because I am out of practice all together and just need to get my feet wet again.
     That said, I will be trying to use Flexbox for this project to keep my familiarity of that up front and center.<br>
     JS - Vanilla JS only, will be using no libraries.
