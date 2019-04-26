@@ -58,17 +58,25 @@ input for additional ones to be added.
     1. All variables need to be stored locally. Will update this step as I understand more about how local storage works.
 
 ## <strong>Step 7: Future Updates</strong><br>
-    1. Adding a date/time to the app in general. This will be used on a day to day habit so having this feature will be nice to have available.
-    While its nice to have, its not essential which is why this will be added at a later time.<br><br>
-    2. Once date/time is added, this can be added into each todo as well in order to display when it was created, or to even set an expected
-    end date to the tasks at hand. <br><br>
-    3. Have a second tab on the display which will showcase all of the completed todo's instead of having them all viewable on the page directly.
-    Once again, a nice feature but not required. There is a good chance most of the tasks will be deleted instead of marked as completed.
-    That, or will be deleted soon after completion to clean things up. <br><br>
-    4. Attaching to a database such as Mango or another. This will likely be far in the future as I know nothing about working with
-    databases currently. This will likely also require a web host for it to be posted online since Github and Netlify do not support
-    databases on their free services. <br><br>
-    5. Update the CSS to utilize SASS instead of static CSS. <br>
+1. Adding a date/time to the app in general. This will be used on a day to day habit so having this feature will be nice to have available.
+While its nice to have, its not essential which is why this will be added at a later time.
+
+
+2. Once date/time is added, this can be added into each todo as well in order to display when it was created, or to even set an expected
+end date to the tasks at hand. 
+
+
+3. Have a second tab on the display which will showcase all of the completed todo's instead of having them all viewable on the page directly.
+Once again, a nice feature but not required. There is a good chance most of the tasks will be deleted instead of marked as completed.
+That, or will be deleted soon after completion to clean things up.
+
+
+4. Attaching to a database such as Mango or another. This will likely be far in the future as I know nothing about working with
+databases currently. This will likely also require a web host for it to be posted online since Github and Netlify do not support
+databases on their free services.
+
+
+5. Update the CSS to utilize SASS instead of static CSS. 
 
 
 ## Tech Being Used
