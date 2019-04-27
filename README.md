@@ -98,16 +98,24 @@ JS - Vanilla JS only, will be using no libraries.
 
 ## Color Values
 Primary Background - RGB(33,39,62) (dark blue /grey)
+
 Input/Task Background - RGB(48,54,81) (lighter blue / grey)
+
 Add Task Icon - RGB(95,199,138) (green)
+
 Add Task Background - RGB(22,31,55) (navy blue)
+
 Text Color - RGB(219,219,221) (near white)
+
 Hover?
+
 TrashCan? maybe add icon green
 
+
 ## Icons
-Plus - <!-- <i class="fas fa-plus"></i> -->
-Trash - <!-- <i class="fas fa-times"></i> -->
+Plus - <i class="fas fa-plus"></i> 
+
+Trash - <i class="fas fa-times"></i>
 
 
 
