@@ -1,5 +1,9 @@
 :root {
-    
+    --primary-background: rgb(33, 39, 62);
+    --secondary-background: rgb(48, 54, 81);
+    --add-task-bg: rgb(22, 32, 55);
+    --task-icon: rgb(95, 199, 138);
+    --primary-text: rgb(219, 219, 221); 
 }
 
 * {
@@ -21,7 +25,44 @@ html {
 body {
     font-weight: 400;
     background-color: #fff;
-    color: #000;
+    color: var(--primary-text);
     line-height: 1.5;
     font-size: 2rem;
+}
+
+.container {
+    height: 100vh;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.app-background {
+    height: 50rem;
+    width: 40rem;
+    background-color: var(--primary-background);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.app-input {
+    height: 15rem;
+    width: 35rem;
+    margin-top: 2.5rem;
+    background-color: var(--secondary-background);
+}
+
+.task-list {
+    height: 100%;
+    width: 35rem;
+    margin-top: 1rem;
+    margin-bottom: 2.5rem;
+    background-color: var(--secondary-background);
+
 }
