@@ -86,9 +86,28 @@ That, or will be deleted soon after completion to clean things up.
 databases currently. This will likely also require a web host for it to be posted online since Github and Netlify do not support
 databases on their free services.
 5. Update the CSS to utilize SASS instead of static CSS. 
+6. Filter to sort and hide out the completed tasks from the incomplete tasks. This could probably be utilized in the future to also sort
+particular tasks as well. Future thought will be needed for how to 
+implement this.  
 
 
 ## Tech Being Used
 CSS - I will probably stay away from SASS currently just because I am out of practice all together and just need to get my feet wet again.
 That said, I will be trying to use Flexbox for this project to keep my familiarity of that up front and center.<br>
 JS - Vanilla JS only, will be using no libraries.
+
+## Color Values
+Primary Background - RGB(33,39,62) (dark blue /grey)
+Input/Task Background - RGB(48,54,81) (lighter blue / grey)
+Add Task Icon - RGB(95,199,138) (green)
+Add Task Background - RGB(22,31,55) (navy blue)
+Text Color - RGB(219,219,221) (near white)
+Hover?
+TrashCan? maybe add icon green
+
+## Icons
+Plus - <!-- <i class="fas fa-plus"></i> -->
+Trash - <!-- <i class="fas fa-times"></i> -->
+
+
+
