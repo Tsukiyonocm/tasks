@@ -113,9 +113,9 @@ TrashCan? maybe add icon green
 
 
 ## Icons
-Plus - <i class="fas fa-plus"></i> 
+Plus - `<i class="fas fa-plus"></i>` 
 
-Trash - <i class="fas fa-times"></i>
+Trash - `<i class="fas fa-times"></i>`
 
 
 
